@@ -3,7 +3,8 @@
 A structured, self-taught roadmap tracking my progression from foundational mathematics and computer science to production-level AI engineering. 
 
 ## Current Progress Snapshot
-* **Mathematics:**<img width="1280" height="720" alt="WEEK 2 LA" src="https://github.com/user-attachments/assets/8e55e6a9-7ac4-4e0e-bc19-c295fcb0e96c" />
+* **Mathematics:**<img width="1280" height="720" alt="WEEK 2 LA" src="https://github.com/user-attachments/assets/8cbfeee4-0c10-4bd7-bf74-e0a0b8efb32e" />
+
 <img width="1280" height="720" alt="WEEK 2 CALCULUS" src="https://github.com/user-attachments/assets/6bf251a5-3b09-40e3-8c90-5a0ac42a5b2a" />
  MIT 18.06SC (Linear Algebra) & MIT 18.01SC (Calculus)
 * **Computer Science:** MIT 6.100L (Python) & Coursera Python for Everybody
