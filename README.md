@@ -23,3 +23,11 @@ A structured, self-taught roadmap tracking my progression from foundational math
 
 ### Week 1: Launch
 * Initialized curriculum setup and finalized study tracks for core mathematics.
+---
+
+## Technical Strategy
+Right now, my priority is conceptual mastery and architectural understanding. I am intentionally focusing on building "pen-and-paper" intuition (solving proofs, manually calculating decompositions, sketching algorithms) before leveraging automated abstraction libraries like NumPy. This approach ensures a deeper grasp of the "why" before automating the "how."
+
+Follow my progress: [My LinkedIn Updates-www.linkedin.com/in/rajesh-cattamanchi-ai]
+
+---
